@@ -1,14 +1,14 @@
 # IRE Minor Project
 
-### ***Rishika Sharma(20161231)***
 
 
 
-#Always create a new index folder
 
-#The indexfile will be present inside the index_folder
+*Always create a new index folder
 
-#Output(results) will be written in outputfile and response time is printed after running othe bash script on the console
+*The indexfile will be present inside the index_folder
+
+*Output(results) will be written in outputfile and response time is printed after running othe bash script on the console
 
 ## How to run
 
